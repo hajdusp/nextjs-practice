@@ -1,1 +1,13 @@
-$color-primary: #111;
+:root {
+    // Colors
+    --color-red: red;
+    --color-dark: #333;
+    --color-black: #111;
+    --color-lightgray: #999;
+    --color-smoke: whitesmoke;
+
+
+    --text-color: var(--color-dark);
+    --heading-color: var(--color-black);
+    --secondary-color: var(--color-lightgray);
+}
